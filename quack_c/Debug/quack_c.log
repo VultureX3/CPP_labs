@@ -1,0 +1,4 @@
+﻿  quack_c.cpp
+c:\users\ikhal\documents\visual studio 2015\projects\asd\lab4\quack_c\quack_c.cpp(21): warning C4715: jump: значение возвращается не при всех путях выполнения
+  quack_c.vcxproj -> C:\Users\ikhal\Documents\Visual Studio 2015\Projects\asd\lab4\quack_c\Debug\quack_c.exe
+  quack_c.vcxproj -> C:\Users\ikhal\Documents\Visual Studio 2015\Projects\asd\lab4\quack_c\Debug\quack_c.pdb (Full PDB)
